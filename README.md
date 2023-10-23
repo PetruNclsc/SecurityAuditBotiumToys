@@ -1,7 +1,7 @@
 <h1>Botium Toys - Security Audit</h1>
 
 <h2>Description</h2>
-Project consists of conducting a security audit for a fictional company, Botium Toys that is in this situation a company that is at a 8/10 risk score because of it's suddden success and traction coming from new customers and locations.
+Project consists of conducting a security audit for a fictional company, Botium Toys that is in this situation a company that is at great risk because of it's suddden success and traction coming from new customers and locations. In this google guided project, my task is to conduct a security audit to my supervisors and shareholders in order to address major security problems that put the company at a high risk.
 <br />
 
 
